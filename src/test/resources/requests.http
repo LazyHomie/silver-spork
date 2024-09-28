@@ -1,0 +1,8 @@
+### Get yearly average temperatures for Warszawa
+GET http://localhost:8080/temperature?city=Warszawa
+
+### Get yearly average temperatures for Poznań
+GET http://localhost:8080/temperature?city=Poznań
+
+### Get yearly average temperatures for Łódź
+GET http://localhost:8080/temperature?city=Łódź
